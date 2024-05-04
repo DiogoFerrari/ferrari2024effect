@@ -31,9 +31,10 @@ The files in this repository include:
 .
 ├── data
 │   └── final                        <- folder with data used in the analyses 
-│                                       (only aggregated data; see privacy statement)
 ├── man
-│   └── tables-and-figures           <- folder to save the tables and figures
+│   ├── supp-material
+│   │   └── tables-and-figures       <- folder to save the tables and figures of online supplement
+│   └── tables-and-figures           <- folder to save the tables and figures of manuscript
 ├── src
 │   └── model                        <- scripts to reproduce the analyses, tables, and figures
 └── README.org                       <- this file
